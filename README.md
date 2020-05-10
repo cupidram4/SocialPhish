@@ -1,6 +1,6 @@
 # Cupid social phish
 
-## Author:Cipid Ram=sriram.m
+## Author:Cupid Ram=sriram.m
 
 
 The most complete Phishing Tool, with 32 templates +1 customizable
